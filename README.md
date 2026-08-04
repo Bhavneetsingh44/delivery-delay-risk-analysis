@@ -4,7 +4,7 @@ Analyzing 180K+ shipments to uncover why 55% of deliveries are late — KPIs, re
 
 ## 📌 Project Overview
 
-**Client:** APL Logistics (KWE Group) | **Program:** Unified Mentor
+**Client:** APL Logistics (KWE Group)
 
 APL Logistics handles high-volume, multi-region shipments. Despite detailed order and shipping data, the organization lacked clear visibility into on-time vs delayed deliveries, why shipments are delayed, and which regions/shipping modes carry the highest risk.
 
