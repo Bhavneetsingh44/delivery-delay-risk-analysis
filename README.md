@@ -11,7 +11,7 @@ APL Logistics handles high-volume, multi-region shipments. Despite detailed orde
 This project builds a diagnostic intelligence layer — moving logistics teams from reactive firefighting to data-driven operational control.
 
 ## 🔗 Live Dashboard
-👉 [View the deployed app]([https://your-app-name.streamlit.app](http://localhost:8501/)) *(update with your actual URL)*
+👉 [View the deployed app](http://localhost:8501/)
 
 ## 📂 Dataset
 
