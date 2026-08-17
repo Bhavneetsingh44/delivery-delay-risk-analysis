@@ -94,5 +94,3 @@ streamlit run app.py
 ## 📌 Status
 Data cleaning, KPI analysis, EDA, and the Streamlit dashboard are complete. Research paper and executive summary are complete and included above. Deployed on Streamlit Community Cloud.
 
----
-*Built as part of the Unified Mentor program.*
